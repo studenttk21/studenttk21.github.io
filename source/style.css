@@ -5,6 +5,12 @@ header
     background-color: #D9D9D9;
 }
 
+.logo
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
 body
 {
     margin: 0;
@@ -15,4 +21,157 @@ a
 {
     text-decoration: none;
     color: black;
+}
+
+.heading
+{
+    padding-top: 10px;
+}
+
+/*АЛГОРИТМ ЗАКАЗА*/
+.section1
+{    
+    height: 500px;
+    background-color: #6bc095;
+}
+
+
+/*ИНФОРМАЦИЯ О КОМПАНИИ*/
+.section2
+{
+    height: 1000px; 
+    background-color: #c2be87;
+}
+
+/*Цель и девиз*/
+.cel, .deviz
+{
+    padding-left: 5px; 
+    padding-right: 5px;
+    padding-top: 5px; 
+    padding-bottom: 1px;
+    font-size: 24px; 
+    border-radius: 8px; 
+}
+
+.cel
+{
+    width: 500px; 
+    background-color: #c6db80; 
+
+}
+
+.deviz
+{
+    margin-top: 50px; 
+    width: 250px; 
+    height: 70; 
+    background-color: #b3f0f5; 
+
+}
+
+/*Отзывы*/
+.otzyv_heading
+{
+    width: 250px; 
+    height: 70; 
+    background-color: wheat; 
+    font-size: 24px; 
+    border-radius: 8px; 
+    margin-top: 50px;
+}
+
+.otzyv
+{
+    margin-top: 100px; 
+    padding: 10px; 
+    margin-left: 250px; 
+    float: left; 
+    width: 470px; 
+    height: 70; 
+    background-color: #d1d1d1; 
+    font-size: 24px; 
+    border-radius: 8px; 
+    padding: 20px;
+}
+
+
+
+/*ФОРМ ПОИСКА*/
+.section3
+{
+    height: 500px; 
+    background-color: #cc9888;
+}
+
+.poiskovik
+{
+    width: 410px; 
+    height: 200px; 
+    background-color: lightgray; 
+    margin-top: 40px;
+    margin-left: 50px; 
+    padding: 15px; 
+    border-radius: 8px; 
+}
+
+
+/*АКЦИИ*/
+.section4
+{
+    height: 1000px; 
+    background-color: #ac7ba1;
+}
+
+.cube1, .cube2
+{
+    margin-top: 70px; 
+    width: 1000px; 
+    height: 700px; 
+    background-color: white; 
+    border-radius: 8px; 
+}
+
+.cube1
+{  
+    margin-left: 100px; 
+    float: left;
+}
+
+.cube2
+{
+    margin-right: 100px; 
+    float: right;
+}
+
+.picture
+{
+    border-radius: 8px; 
+    margin-top: 60px; 
+    outline: 1px solid black; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
+.section5
+{
+    height: 500px; 
+    background-color: #bea874;
+}
+/*ПОДВАЛ*/
+.section6
+{
+    height: 200px; 
+    background-color: #2C3135; 
+    color: white;
 }
